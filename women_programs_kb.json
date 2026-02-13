@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Amazon WoW (Women of the World)",
+    "who": "women engineering and tech students in India",
+    "summary": "Amazon WoW is a program for women engineering students, offering sessions, networking, and guidance for tech careers and internships.",
+    "focus": "Women students interested in software development and tech roles.",
+    "activities": "Tech sessions, mentorship, interview preparation, interaction with Amazonians.",
+    "good_for": "B.Tech/B.E., MCA, and related degree students who want to enter software roles.",
+    "link": "https://amazon.jobs/content/en/career-programs/university/women-of-the-world",
+    "category": "tech"
+  },
+  {
+    "name": "Flipkart Runway",
+    "who": "women engineers (students and early-career)",
+    "summary": "Flipkart Runway is a women-only engineering internship and hiring program, aimed at providing exposure and opportunities in product and tech roles.",
+    "focus": "Women in engineering and tech.",
+    "activities": "Internships, projects, mentorship, pre-placement offers for strong performers.",
+    "good_for": "Final-year or pre-final-year engineering students and early-career women engineers.",
+    "link": "https://www.flipkartcareers.com/flipkart/runway",
+    "category": "tech"
+  },
+  {
+    "name": "HSBC Power2Her / Women Returnship Programs",
+    "who": "women professionals returning to work",
+    "summary": "Women-focused returnship programs like HSBC Power2Her help women professionals restart their careers after a break.",
+    "focus": "Women who took a career break and want to re-enter the workforce in corporate roles like finance, tech, and operations.",
+    "activities": "Training, mentoring, and project-based roles that may lead to full-time opportunities.",
+    "good_for": "Women with prior work experience in finance, tech, operations, or related fields.",
+    "link": "https://mycareer.hsbc.com/power2her",
+    "category": "tech"
+  },
+  {
+    "name": "Women Tech Mentoring & Communities",
+    "who": "girls and women in tech at all stages",
+    "summary": "Various women-in-tech communities offer free mentorship, talks, and networking, helping women stay in tech.",
+    "focus": "Women and girls in tech at all stages.",
+    "activities": "Webinars, 1:1 mentoring, hackathons, networking.",
+    "good_for": "Any girl or woman who wants peers and mentors in tech.",
+    "link": "https://www.google.com/search?q=women+in+tech+mentoring+India",
+    "category": "tech"
+  },
+  {
+    "name": "Scholarships for Girls on National Scholarship Portal (NSP)",
+    "who": "school and college girls across India",
+    "summary": "The National Scholarship Portal lists many central and state government scholarships for Indian girls and women to continue their education.",
+    "focus": "Government scholarships and financial aid for girls at school, college, and higher education level.",
+    "activities": "Tuition fee support, maintenance allowance, incentives for girls in different categories.",
+    "good_for": "Girls from classes 1–12, undergraduate, and postgraduate levels who need financial support.",
+    "link": "https://scholarships.gov.in/All-Scholarships",
+    "category": "non-tech"
+  },
+  {
+    "name": "AICTE Pragati Scholarship for Girl Students",
+    "who": "girl students pursuing technical diploma or degree",
+    "summary": "Pragati is an AICTE scheme that provides scholarships to girl students pursuing technical education to encourage them into engineering and diploma programs.",
+    "focus": "Girls admitted to AICTE-approved technical institutes in diploma or degree programs.",
+    "activities": "Annual scholarship amount for tuition fees and other expenses.",
+    "good_for": "Girls in diploma/degree engineering and technical courses from families with limited income.",
+    "link": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati",
+    "category": "non-tech"
+  },
+  {
+    "name": "Post-Graduate Indira Gandhi Scholarship for Single Girl Child",
+    "who": "single girl child pursuing post‑graduate programs",
+    "summary": "UGC’s Indira Gandhi Scholarship supports single girl children who are pursuing full‑time regular PG courses in recognized universities/colleges.",
+    "focus": "Single girl child in a family pursuing postgraduate education.",
+    "activities": "Monthly financial assistance during the PG course.",
+    "good_for": "Girls who are the only daughter in their family and are enrolled in regular PG programs.",
+    "link": "https://www.ugc.gov.in/page/Post-Graduate-Indira-Gandhi-Scholarship-for-Single-Girl-Child.aspx",
+    "category": "non-tech"
+  },
+  {
+    "name": "Government Scholarships for Women in Arts & Humanities",
+    "who": "women in arts, design, and humanities",
+    "summary": "Many scholarships and fellowships support women in arts, design, and humanities, including central and state schemes.",
+    "focus": "Women in arts, design, social sciences, and humanities.",
+    "activities": "Financial support, workshops, exhibitions, mentorship.",
+    "good_for": "Women who want to study or build careers in arts, design, social sciences, and humanities.",
+    "link": "https://www.google.com/search?q=scholarships+for+women+in+arts+India",
+    "category": "non-tech"
+  },
+  {
+    "name": "Government Women Schemes – Education & Career (Central & State)",
+    "who": "girls and women seeking education, training, or employment support",
+    "summary": "Central and state governments run multiple schemes for women, including scholarships, skill development, overseas study support, and youth empowerment programs.",
+    "focus": "Education, skills, and entrepreneurship support for women and girls.",
+    "activities": "Scholarships, fee waivers, coaching support, skill training, and financial assistance.",
+    "good_for": "Girls and young women who want to continue studies, upskill, or prepare for jobs and exams.",
+    "link": "https://www.indiascholarships.in/government-scholarships",
+    "category": "non-tech"
+  },
+  {
+    "name": "Women Entrepreneurship & Business Support Schemes",
+    "who": "women who want to start or grow a business",
+    "summary": "Several schemes support women entrepreneurs in India with easier loans, subsidies, and training, helping them start or expand small businesses.",
+    "focus": "Women-led micro, small and medium enterprises (MSMEs) and startups.",
+    "activities": "Credit-linked subsidies, training, incubation, and mentorship.",
+    "good_for": "Women planning to start a small business, shop, online venture, or startup.",
+    "link": "https://www.google.com/search?q=government+schemes+for+women+entrepreneurs+in+india",
+    "category": "non-tech"
+  }
+]
